@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ CloudShield
+# CloudShield
 
 ### **Cloud Security Monitoring & Threat Detection Platform**
 
@@ -8,13 +8,13 @@ _Enterprise-grade cloud infrastructure protection built with Java_
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Security](https://img.shields.io/badge/🔒_Cloud_Security-Platform-critical?style=for-the-badge)](https://github.com/abhishek4643/CloudShield)
+[![Security](https://img.shields.io/badge/_Cloud_Security-Platform-critical?style=for-the-badge)](https://github.com/abhishek4643/CloudShield)
 
 </div>
 
 ---
 
-## 📌 About
+## About
 
 **CloudShield** is a robust cloud security platform engineered in Java to provide **real-time threat detection**, **vulnerability assessment**, and **compliance monitoring** for cloud-native environments. It acts as a protective shield for cloud infrastructure, continuously scanning for misconfigurations, unauthorized access, and potential security breaches.
 
@@ -22,21 +22,21 @@ _Enterprise-grade cloud infrastructure protection built with Java_
 
 ---
 
-## 🧠 Core Capabilities
+## Core Capabilities
 
 | Feature | Description |
 |---------|-------------|
-| 🔍 **Threat Detection** | Identify suspicious activities and potential security threats in real-time |
-| 🛡️ **Vulnerability Scanning** | Automated scanning for known CVEs and misconfigurations |
-| 📊 **Security Dashboard** | Centralized view of security posture across all cloud resources |
-| 🔔 **Alert System** | Configurable alerts via email, Slack, or webhooks |
-| 📋 **Compliance Reporting** | Generate reports for SOC2, HIPAA, PCI-DSS compliance |
-| 🔐 **IAM Analysis** | Detect over-privileged roles and access anomalies |
-| 📈 **Audit Logging** | Complete audit trail for all security events |
+| **Threat Detection** | Identify suspicious activities and potential security threats in real-time |
+| **Vulnerability Scanning** | Automated scanning for known CVEs and misconfigurations |
+| **Security Dashboard** | Centralized view of security posture across all cloud resources |
+| **Alert System** | Configurable alerts via email, Slack, or webhooks |
+| **Compliance Reporting** | Generate reports for SOC2, HIPAA, PCI-DSS compliance |
+| **IAM Analysis** | Detect over-privileged roles and access anomalies |
+| **Audit Logging** | Complete audit trail for all security events |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```
 Language:       Java 17+
@@ -51,7 +51,7 @@ Architecture:   Microservices · Event-Driven
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Java** ≥ 17
@@ -80,7 +80,7 @@ Access the dashboard at [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌──────────────────────────────────────────────┐
@@ -97,7 +97,7 @@ Access the dashboard at [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CloudShield/
@@ -118,7 +118,7 @@ CloudShield/
 
 ---
 
-## 🤝 Use Cases
+## Use Cases
 
 - **Startup Security Teams** — Automated cloud security without expensive tools
 - **DevOps Engineers** — Integrate security checks into CI/CD pipelines
@@ -129,6 +129,6 @@ CloudShield/
 
 <div align="center">
 
-_Your cloud deserves a shield_ 🛡️
+_Your cloud deserves a shield_
 
 </div>
